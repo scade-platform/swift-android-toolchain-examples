@@ -88,3 +88,16 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+SystemLibraryExample/lib
+SystemLibraryExample/libfoo/build
+
+BinaryTargetExample/lib
+BinaryTargetExample/libfoo/build
+
+GRDBExample/lib
+GRDBExample/sqlite3/build
+
+SQLiteSwiftExample/lib
+SQLiteSwiftExample/sqlite3/build
+

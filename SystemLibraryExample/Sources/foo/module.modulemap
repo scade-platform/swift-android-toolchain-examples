@@ -1,0 +1,5 @@
+module foo [system] {
+    header "foo-include.h"
+    link "foo"
+    export *
+}

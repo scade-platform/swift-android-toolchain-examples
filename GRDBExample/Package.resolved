@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scade-platform/GRDB.swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "163976a8f718f9cae75f14de6ef2fef4b0569c6b"
+      }
+    }
+  ],
+  "version" : 2
+}
